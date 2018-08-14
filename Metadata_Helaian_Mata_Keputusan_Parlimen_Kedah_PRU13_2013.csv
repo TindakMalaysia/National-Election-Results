@@ -1,0 +1,35 @@
+"Source: SPR Malaysia, PKR, AGC Malayisa",
+"Citation: SPR Malaysia, PKR,AGC Malaysia, Tindak Malaysia",
+"While every effort has been undertaken to ensure the accuracy of the information, the publisher will not be held responsible for any errors",
+and omissions,
+,
+FIELD NAMES,DESCRIPTION
+NEGERI,State
+Jenis Undi,Ballot Type
+Kod Parlimen,Parliamentary Code
+Nama Parlimen,Parliamentary Name
+Kod DUN,DUN (State Seat) Code
+Nama DUN,DUN (State Seat) Name
+KOD DM,Polling District Code
+Nama Daerah Mengundi,Polling District Name
+Nama Pusat Mengundi,Name of Polling Centre
+Nombor Tempat Mengundi,Vote Stream Number
+Jumlah Kertas Undi Yang Patut Berada Di Dalam Peti Undi (A),Total Number Ballots ought to be in the Ballot Box (A)
+PR,Pakatan Rakyat
+PR_CALON,Pakatan Rakyat Candidate
+PR_UNDI,Pakatan Rakyat Votes
+BN,Barisan Nasional
+BN_CALON,Barisan Nasional Candidate
+BN_UNDI,Barisan Nasional Votes
+LAIN1,Other Party (1)/ Independents
+LAIN1_CALON,Other (1) Candidate
+LAIN1_UNDI,Other's (1) Vote
+LAIN2,Other Party (2)/ Independents
+LAIN2_CALON,Other (2) Candidate
+LAIN2 UNDI,Other's (2) Vote
+LAIN3,Other Party (3)/ Independents
+LAIN3_CALON,Other (3) Candidate
+LAIN3_UNDI,Other's (3) Vote
+Jumlah Undian Oleh Pemilih,Total Number of votes for all candidates
+Bilangan Kertas Undi Yang Ditolak (C),Rejected Ballots © 
+Jumlah Kertas Undi Yang Dikeluarkan Kepada Pengundi Tetapi Tidak Dimasukkan Ke Dalam Peti Undi(D),Unreturned Ballots (D)
